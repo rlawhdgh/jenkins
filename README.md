@@ -1,2 +1,0 @@
-jenkicns-github-webhook
-test
